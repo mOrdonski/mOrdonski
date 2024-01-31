@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 🔭 I’m currently working on moveing large e-commerce from PrestaShop to Angular<br>👯 I’m looking to collaborate on every interesting and modern project<br>🌱 I’m currently learning Node.js and React<br>💬 Ask me about anything
 
@@ -12,3 +14,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+</div>
