@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I’m currently working on moveing large e-commerce from PrestaShop to Angular<br>👯 I’m looking to collaborate on every interesting and modern project<br>🌱 I’m currently learning Node.js and React<br>💬 Ask me about anything
+🔭 I’m currently working on moving large e-commerce from PrestaShop to Angular<br>👯 I’m looking to collaborate on every interesting and modern project<br>🌱 I’m currently learning Node.js and React<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
